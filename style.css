@@ -193,3 +193,18 @@ body {
     background-color: white;
 
 }
+.screenshot img {
+    height: 300px;
+    border: 5px solid white;
+}
+
+#screenshot_holder {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+#screenshots {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
