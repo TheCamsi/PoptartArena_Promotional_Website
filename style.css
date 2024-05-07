@@ -183,3 +183,13 @@ body {
     text-align: center;
     font-size: 50px;
 }
+
+.player_card{
+    text-align: center;
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: 40px;
+}
+.player_card span {
+    background-color: white;
+
+}
